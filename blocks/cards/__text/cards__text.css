@@ -1,0 +1,14 @@
+.cards__text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 29px;
+    color: #82899B;
+    
+    max-width: 485px;
+}
+
+.cards__text_narrow {
+    max-width: 415px;
+}
+
