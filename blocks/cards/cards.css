@@ -1,16 +1,15 @@
 @import url(./__column/cards__column.css);
 @import url(./__item/cards__item.css);
-@import url(./__item/_square/cards__item_square.css);
 @import url(./__title/cards__title.css);
-@import url(./__img/cards__img.css);
 @import url(./__text/cards__text.css);
 @import url(./__bold/cards__bold.css);
 
 .cards {
-    max-width: 1140px;
+    max-width: 1150px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    padding-top: 100px;
 }

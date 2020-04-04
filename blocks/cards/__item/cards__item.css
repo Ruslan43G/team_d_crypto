@@ -1,12 +1,18 @@
+@import url(./_image/cards__item_image_first.css);
+@import url(./_image/cards__item_image_second.css);
+@import url(./_image/cards__item_image_third.css);
+@import url(./_image/cards__item_image_fourth.css);
+@import url(./_image/cards__item_image_fifth.css);
+
+
 .cards__item {
     width: 565px;
     background-color: #FAFCFF;
     border-radius: 6px;
     margin-bottom: 10px;
-    padding: 40px;
-    box-sizing: border-box;
-    position: relative;
+    box-sizing: border-box; 
     
 }
+
 
 

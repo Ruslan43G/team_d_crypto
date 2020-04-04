@@ -1,0 +1,9 @@
+.cards__item_image_first {
+    background-image: url(../../../../images/1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 505px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
