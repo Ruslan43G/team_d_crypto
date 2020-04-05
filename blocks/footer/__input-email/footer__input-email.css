@@ -1,0 +1,15 @@
+.footer__input-email {
+    width: 324px;
+    height: 39px;
+    border: 1px solid #82899B;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.footer__input-email::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #82899B;
+}

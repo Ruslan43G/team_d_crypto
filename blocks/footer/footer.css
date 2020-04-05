@@ -1,0 +1,20 @@
+@import url(./__title/footer__title.css);
+@import url(./__contact/footer__contacts.css);
+@import url(./__nav/footer__nav.css);
+@import url(./__item/footer__item.css);
+@import url(./__news/footer__news.css);
+@import url(./__links/footer__links.css);
+@import url(./__link/footer__link.css);
+@import url(./__form/footer__form.css);
+@import url(./__input-email/footer__input-email.css);
+@import url(./__button/footer__button.css);
+@import url(./__copyright/footer__copyright.css);
+
+.footer {
+    margin: 105px auto 0px;
+    max-width: 1150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

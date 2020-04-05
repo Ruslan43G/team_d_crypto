@@ -1,0 +1,21 @@
+.footer__button {
+    background: #315EFB;
+    border: 1px solid #315EFB;
+    box-sizing: border-box;
+    width: 106px;
+    height: 39px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 8px;
+    left: 220px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.footer__button::placeholder {
+    
+}
