@@ -17,4 +17,12 @@
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
+    padding-bottom: 204px;
+}
+
+@media screen and (max-width:768px) {
+    .footer {
+        flex-direction: column;
+    }
+
 }
