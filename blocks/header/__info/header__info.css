@@ -1,0 +1,12 @@
+.header__info {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+
+  text-decoration: none;
+
+  margin-right: 35px;
+
+  color: #1f2431;
+}

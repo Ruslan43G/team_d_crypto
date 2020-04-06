@@ -1,0 +1,10 @@
+.intro__title {
+  margin: 0;
+  width: 384px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 46px;
+
+  color: #1f2431;
+}

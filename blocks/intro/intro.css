@@ -1,0 +1,21 @@
+@import url(./__column/intro__column.css);
+@import url(./__image/intro__image.css);
+@import url(./__link/intro__link.css);
+@import url(./__subtitle/intro__subtitle.css);
+@import url(./__title/intro__title.css);
+@import url(./__wallet/intro__wallet.css);
+
+.intro {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding-top: 60px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
+
+
+
+

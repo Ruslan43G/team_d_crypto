@@ -1,0 +1,5 @@
+.intro__column {
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+}
