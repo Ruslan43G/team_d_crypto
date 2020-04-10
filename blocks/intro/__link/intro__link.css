@@ -20,3 +20,10 @@
   }
 }
 
+@media screen and (max-width: 997px) {
+  .intro__link {
+    margin: 0 auto;
+    
+  }
+}
+
