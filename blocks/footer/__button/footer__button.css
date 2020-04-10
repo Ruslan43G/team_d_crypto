@@ -14,8 +14,18 @@
     left: 220px;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
+    outline: none;
 }
 
-.footer__button::placeholder {
-    
+.footer__button:hover {
+    cursor: pointer;
+    width: 110px;
+    height: 42px;
+    top: 6px;
+    left: 215px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
 }

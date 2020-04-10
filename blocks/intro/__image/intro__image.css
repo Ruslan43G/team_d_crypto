@@ -1,0 +1,10 @@
+.intro__image {
+    object-fit: cover;
+    max-width: 100vw;
+}
+
+@media screen and (max-width: 1080px) {
+    .intro__image {
+        margin-top: 50px;
+    }
+}

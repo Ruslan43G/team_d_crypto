@@ -2,12 +2,17 @@
   margin: 0;
   padding-top: 22px;
   padding-bottom: 25px;
-
   font-style: normal;
   font-weight: 300;
   font-size: 16px;
   line-height: 26px;
   width: 251px;
-
   color: #82899b;
+}
+
+@media screen and (max-width: 997px) {
+  .intro__subtitle {
+    margin: 0 auto;
+    max-width: 100%;
+  }
 }

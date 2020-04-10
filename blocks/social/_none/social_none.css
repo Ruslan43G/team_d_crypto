@@ -1,0 +1,9 @@
+.social_none {
+    
+}
+
+@media screen and (max-width: 800px) {
+    .social_none {
+        display: none;
+    }
+}
